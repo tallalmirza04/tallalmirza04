@@ -162,20 +162,11 @@
 
 ---
 
-## 📫 Contact
+## Contact
 
-<p align="center">
-Email • LinkedIn • GitHub • WhatsApp
-</p>
-
-<p align="center">
-
-📧 <a href="mailto:tallalmirza65@gmail.com">tallalmirza65@gmail.com</a>  
-💼 <a href="https://www.linkedin.com/in/tallal-mahmood/">linkedin.com/in/tallal-mahmood</a>  
-💻 <a href="https://github.com/tallalmirza04">github.com/tallalmirza04</a>  
-📱 <a href="https://wa.me/923360972974">wa.me/923360972974</a>  
-
-</p>
+- **Email**: tallalmirza65@gmail.com
+- **LinkedIn**: [tallal-mahmood](https://www.linkedin.com/in/tallal-mahmood/)
+- **GitHub**: [tallalmirza04](https://github.com/tallalmirza04)
 
 ---
 
