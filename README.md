@@ -30,13 +30,13 @@
 
 # Muhammad Tallal Mahmood
 
-Full Stack Developer | Computer Science Student | IoT Enthusiast[cite: 1]
+Full Stack Developer | Computer Science Student | IoT Enthusiast
 
 ---
 
 ## Summary
 
-Computer Science student specializing in building scalable full-stack applications and intelligent IoT solutions. Experienced in the MERN stack and real-time systems, with a focus on creating practical digital platforms and automated hardware integrations.[cite: 1]
+Computer Science student specializing in building scalable full-stack applications and intelligent IoT solutions. Experienced in the MERN stack and real-time systems, with a focus on creating practical digital platforms and automated hardware integrations.
 
 ---
 
@@ -61,23 +61,23 @@ Computer Science student specializing in building scalable full-stack applicatio
 
 ---
 
-## Featured Projects[cite: 1]
+## Featured Projects.
 
 ### iStore.pk
 iPhone buying and selling platform with real-time order tracking, admin dashboard, rider delivery system, and smart delivery management.[cite: 1]
-- **Stack:** MERN, Socket.io, Cloudinary[cite: 1]
+- **Stack:** MERN, Socket.io, Cloudinary.
 
 ---
 
 ### Book Review Hub
 Book review platform with user authentication, ratings and reviews system, personalized recommendations, and admin moderation dashboard.[cite: 1]
-- **Stack:** MERN, JWT, Cloudinary[cite: 1]
+- **Stack:** MERN, JWT, Cloudinary.
 
 ---
 
 ### Smart Irrigation System (Final Year Project)
 IoT-based irrigation system using sensors, ESP32, and AI model for automated irrigation decisions with live dashboard monitoring.[cite: 1]
-- **Stack:** Arduino, ESP32, Node.js, MongoDB, React[cite: 1]
+- **Stack:** Arduino, ESP32, Node.js, MongoDB, React.
 
 ---
 
@@ -90,13 +90,13 @@ IoT-based irrigation system using sensors, ESP32, and AI model for automated irr
 
 ## Contact[cite: 1]
 
-- **Email**: tallalmirza65@gmail.com[cite: 1]
-- **LinkedIn**: [tallal-mahmood](https://www.linkedin.com/in/tallal-mahmood/)[cite: 1]
+- **Email**: tallalmirza65@gmail.com
+- **LinkedIn**: [tallal-mahmood](https://www.linkedin.com/in/tallal-mahmood/)
 - **WhatsApp**: +923360972974[cite: 1]
-- **GitHub**: [tallalmirza04](https://github.com/tallalmirza04)[cite: 1]
+- **GitHub**: [tallalmirza04](https://github.com/tallalmirza04)
 
 ---
 
 ## Focus
 
-Developing automated IoT solutions, mastering full-stack architecture, and building user-centric digital platforms.[cite: 1]
+Developing automated IoT solutions, mastering full-stack architecture, and building user-centric digital platforms.
