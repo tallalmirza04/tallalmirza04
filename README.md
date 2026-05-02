@@ -86,19 +86,19 @@ Computer Science student specializing in building scalable full-stack applicatio
 ## Featured Projects.
 
 ### iStore.pk
-iPhone buying and selling platform with real-time order tracking, admin dashboard, rider delivery system, and smart delivery management.[cite: 1]
+iPhone buying and selling platform with real-time order tracking, admin dashboard, rider delivery system, and smart delivery management.
 - **Stack:** MERN, Socket.io, Cloudinary.
 
 ---
 
 ### Book Review Hub
-Book review platform with user authentication, ratings and reviews system, personalized recommendations, and admin moderation dashboard.[cite: 1]
+Book review platform with user authentication, ratings and reviews system, personalized recommendations, and admin moderation dashboard.
 - **Stack:** MERN, JWT, Cloudinary.
 
 ---
 
 ### Smart Irrigation System (Final Year Project)
-IoT-based irrigation system using sensors, ESP32, and AI model for automated irrigation decisions with live dashboard monitoring.[cite: 1]
+IoT-based irrigation system using sensors, ESP32, and AI model for automated irrigation decisions with live dashboard monitoring.
 - **Stack:** Arduino, ESP32, Node.js, MongoDB, React.
 
 ---
@@ -110,11 +110,10 @@ IoT-based irrigation system using sensors, ESP32, and AI model for automated irr
 
 </div>
 
-## Contact[cite: 1]
+## Contact
 
 - **Email**: tallalmirza65@gmail.com
 - **LinkedIn**: [tallal-mahmood](https://www.linkedin.com/in/tallal-mahmood/)
-- **WhatsApp**: +923360972974[cite: 1]
 - **GitHub**: [tallalmirza04](https://github.com/tallalmirza04)
 
 ---
