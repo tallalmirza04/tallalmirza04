@@ -145,6 +145,7 @@
 
 ### 🏠 Smart Home Automation System
 > IoT system to control and monitor home appliances remotely with real-time dashboard and automation.
+
 **Stack:** Arduino, ESP32, Node.js, MongoDB, React  
 
 ---
