@@ -120,4 +120,5 @@ IoT-based irrigation system using sensors, ESP32, and AI model for automated irr
 
 ## Focus
 
-Developing automated IoT solutions, mastering full-stack architecture, and building user-centric digital platforms.
+Developing automated IoT solutions, scalable systems and exploring AI-driven applications.
+
