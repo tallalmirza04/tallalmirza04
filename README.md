@@ -6,7 +6,7 @@
 <br/>
 
 <!-- ROLE TAGLINE -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2800&pause=1000&color=93C5FD&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Next.js+%26+MERN+Developer;AI+Enthusiast;Real-Time+Systems+Developer;Building+Scalable+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2800&pause=1000&color=93C5FD&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Next.js+%26+MERN+Developer;AI+%26+IoT+Enthusiast;Real-Time+Systems+Developer;Building+Scalable+Applications" />
 
 <br/>
 
