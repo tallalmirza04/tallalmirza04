@@ -47,7 +47,7 @@
 
 ## 🧾 Summary
 
-> Computer Science student specializing in building scalable full-stack applications and intelligent IoT solutions.  
+> Computer Science graduate specializing in building scalable full-stack applications and intelligent IoT solutions.  
 > Experienced in the MERN stack and real-time systems, focused on practical platforms and automation.
 
 ---
@@ -150,15 +150,15 @@
 
 ---
 
-## 📊 GitHub Activity
 
-<div align="center">
+
+<!-- <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=tallalmirza04&theme=github-dark&hide_border=true"/>
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tallalmirza04&theme=github-compact"/>
 
-</div>
+</div> -->
 
 ---
 
